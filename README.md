@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Nicholas Defex
-- 🌱 Fullstack Web Development
-- 📫 NIcholasDefex@gmail.com
+- 🌱 Fullstack Web Developer
 
 <!---
 Ndefected15/Ndefected15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
