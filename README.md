@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nicholas Defex
-- 🌱 Fullstack Web Developer + Creative Thinker
+- 🌱 Data Engineer with Fullstack Web Developer Capabilities + Creative Thinker
 
 <!---
 Ndefected15/Ndefected15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
